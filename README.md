@@ -1,4 +1,4 @@
-# Workstation Booking
+# Workstation Booking (Laravel & Flutter)
 
 A time-sloted workstation booking system: a Laravel REST API backend and a Flutter client that
 consumes it. A customer picks a workstation, holds a time slot while confirming details, then
